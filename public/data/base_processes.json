@@ -1,0 +1,50 @@
+[
+    {
+        "id": "VND_001",
+        "category": "Vendor Onboarding",
+        "name": "UltraTech Cement - Cement Supplier Registration",
+        "stockId": "VRF-2025-0187",
+        "year": "2025-01-08",
+        "status": "Ready",
+        "currentStatus": "Ready for processing",
+        "vendorName": "UltraTech Cement Ltd",
+        "materialCategory": "Cement & Concrete",
+        "project": "Elaira Residences, Sector 80"
+    },
+    {
+        "id": "VND_002",
+        "category": "Vendor Onboarding",
+        "name": "Jindal Steel - TMT Bar Supplier Registration",
+        "stockId": "VRF-2025-0203",
+        "year": "2025-01-12",
+        "status": "Ready",
+        "currentStatus": "Ready for processing",
+        "vendorName": "Jindal Steel & Power Ltd",
+        "materialCategory": "Steel & TMT Bars",
+        "project": "Heritage Max, Sector 102"
+    },
+    {
+        "id": "VND_003",
+        "category": "Vendor Onboarding",
+        "name": "Daikin India - HVAC Contractor Registration",
+        "stockId": "CRF-2025-0089",
+        "year": "2025-01-15",
+        "status": "Ready",
+        "currentStatus": "Ready for processing",
+        "vendorName": "Daikin Airconditioning India",
+        "materialCategory": "HVAC Systems",
+        "project": "PARQ, Sector 80"
+    },
+    {
+        "id": "VND_004",
+        "category": "Vendor Onboarding",
+        "name": "DesignCraft Interiors - Interior Fit-out Registration",
+        "stockId": "VRF-2025-0215",
+        "year": "2025-01-18",
+        "status": "Ready",
+        "currentStatus": "Ready for processing",
+        "vendorName": "DesignCraft Interiors Pvt Ltd",
+        "materialCategory": "Interior Design & Fit-out",
+        "project": "Goa Luxury Villas, Candolim"
+    }
+]
